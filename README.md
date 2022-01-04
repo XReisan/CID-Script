@@ -8,14 +8,14 @@ Script CID
 
 * Visit https://console.cloud.google.com/ and click the emoji that in the middle of gift and question mark emoji on right corner.
 * After your cloud shell terminal ready paste this: 
-git clonehttps://github.com/reipangt/CID-Script and press enter.
-* Write cd Growtopia-CID-Creator-v2/ and press enter again.
+git clone https://github.com/XReisan/CID-Script and press enter.
+* Write cd CID-Script and press enter again.
 * After that write those commands: chmod +x createid and hit enter then do ./createid to start creating accounts
 * If you want to stop creating do CTRL+C and to download created accounts write this: cloudshell download acc.txt and click the download button. 
 Alternative: You can go to editor and download the acc.txt
 - **Note**: It just creates CID, doesn't skips the tutorial so they will be bot accounts. You can enter them If you want but, If you do you gotta finish the tutorial. If you use them as bots you can do what normal player does.
 
-### How to use CID-Creator-v2? ( Video Tutorial )
+### How to use CID-Script? ( Video Tutorial )
 
 * English Tutorials: https://youtu.be/ACwncz2DR5o
 * Indonesian Tutorials: https://youtu.be/k2k3-5ohfoA
